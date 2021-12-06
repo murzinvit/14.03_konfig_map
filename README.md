@@ -65,5 +65,5 @@ kubectl apply -f nginx-config.yml
 
 ---
 work notes </br>
-https://vc.ru/dev/181045-doktor-pomogite-u-menya-kubernetes </br>
+
 
